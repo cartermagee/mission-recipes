@@ -1,0 +1,35 @@
+[
+  {
+    "id": "h_smith",
+    "name": "Smith Family",
+    "adminUserId": "u_alice",
+    "preferences": {
+      "allergies": ["peanuts"],
+      "diets": [],
+      "cuisineLikes": ["Italian"],
+      "cuisineDislikes": []
+    }
+  },
+  {
+    "id": "h_lee",
+    "name": "Lee Household",
+    "adminUserId": "u_carol",
+    "preferences": {
+      "allergies": [],
+      "diets": ["vegetarian"],
+      "cuisineLikes": [],
+      "cuisineDislikes": []
+    }
+  },
+  {
+    "id": "h_park",
+    "name": "Park Kitchen",
+    "adminUserId": "u_dan",
+    "preferences": {
+      "allergies": [],
+      "diets": [],
+      "cuisineLikes": [],
+      "cuisineDislikes": []
+    }
+  }
+]

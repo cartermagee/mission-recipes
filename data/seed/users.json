@@ -1,0 +1,46 @@
+[
+  {
+    "id": "u_alice",
+    "name": "Alice Smith",
+    "householdId": "h_smith",
+    "preferences": {
+      "allergies": ["peanuts"],
+      "diets": [],
+      "cuisineLikes": ["Italian", "Mediterranean"],
+      "cuisineDislikes": []
+    }
+  },
+  {
+    "id": "u_bob",
+    "name": "Bob Smith",
+    "householdId": "h_smith",
+    "preferences": {
+      "allergies": [],
+      "diets": ["pescatarian"],
+      "cuisineLikes": ["Japanese", "Thai"],
+      "cuisineDislikes": []
+    }
+  },
+  {
+    "id": "u_carol",
+    "name": "Carol Lee",
+    "householdId": "h_lee",
+    "preferences": {
+      "allergies": ["shellfish", "sesame"],
+      "diets": ["vegetarian"],
+      "cuisineLikes": ["Indian", "Mediterranean", "Thai"],
+      "cuisineDislikes": ["American"]
+    }
+  },
+  {
+    "id": "u_dan",
+    "name": "Dan Park",
+    "householdId": "h_park",
+    "preferences": {
+      "allergies": [],
+      "diets": ["keto"],
+      "cuisineLikes": ["Korean", "American"],
+      "cuisineDislikes": []
+    }
+  }
+]

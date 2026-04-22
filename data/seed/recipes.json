@@ -1,0 +1,597 @@
+[
+  {
+    "id": "r_001",
+    "title": "Classic Margherita Pizza",
+    "image": "https://picsum.photos/seed/margherita/600/400",
+    "cuisine": "Italian",
+    "dietTags": ["vegetarian"],
+    "allergens": ["dairy", "gluten"],
+    "ingredients": [
+      { "name": "pizza dough", "quantity": 1, "unit": "ball", "category": "bakery" },
+      { "name": "san marzano tomatoes", "quantity": 400, "unit": "g", "category": "pantry" },
+      { "name": "fresh mozzarella", "quantity": 200, "unit": "g", "category": "dairy" },
+      { "name": "fresh basil", "quantity": 10, "unit": "leaves", "category": "produce" },
+      { "name": "olive oil", "quantity": 2, "unit": "tbsp", "category": "pantry" },
+      { "name": "salt", "quantity": 1, "unit": "tsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Preheat oven to 500F with a pizza stone inside.",
+      "Stretch dough into a 12-inch round.",
+      "Spread crushed tomatoes thinly, leaving a 1-inch border.",
+      "Tear mozzarella and scatter across.",
+      "Bake 8-10 minutes until bubbling.",
+      "Top with basil, olive oil, and a pinch of salt."
+    ],
+    "prepMinutes": 15,
+    "cookMinutes": 10,
+    "servings": 2,
+    "createdAt": "2025-01-01T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_002",
+    "title": "Pad Thai with Shrimp",
+    "image": "https://picsum.photos/seed/padthai/600/400",
+    "cuisine": "Thai",
+    "dietTags": ["pescatarian"],
+    "allergens": ["shellfish", "peanuts", "eggs", "soy"],
+    "ingredients": [
+      { "name": "rice noodles", "quantity": 200, "unit": "g", "category": "pantry" },
+      { "name": "shrimp, peeled", "quantity": 250, "unit": "g", "category": "seafood" },
+      { "name": "eggs", "quantity": 2, "unit": "whole", "category": "dairy" },
+      { "name": "bean sprouts", "quantity": 1, "unit": "cup", "category": "produce" },
+      { "name": "green onions", "quantity": 3, "unit": "stalks", "category": "produce" },
+      { "name": "crushed peanuts", "quantity": 0.25, "unit": "cup", "category": "pantry" },
+      { "name": "tamarind paste", "quantity": 2, "unit": "tbsp", "category": "pantry" },
+      { "name": "fish sauce", "quantity": 2, "unit": "tbsp", "category": "pantry" },
+      { "name": "soy sauce", "quantity": 1, "unit": "tbsp", "category": "pantry" },
+      { "name": "lime", "quantity": 1, "unit": "whole", "category": "produce" }
+    ],
+    "steps": [
+      "Soak noodles in warm water for 20 minutes, drain.",
+      "Whisk tamarind, fish sauce, soy sauce, and a little sugar together.",
+      "Stir-fry shrimp in oil until pink; set aside.",
+      "Scramble eggs in the same pan, then add noodles and sauce.",
+      "Toss in shrimp, sprouts, and green onions.",
+      "Top with peanuts and lime."
+    ],
+    "prepMinutes": 25,
+    "cookMinutes": 10,
+    "servings": 3,
+    "createdAt": "2025-01-02T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_003",
+    "title": "Chana Masala",
+    "image": "https://picsum.photos/seed/chana/600/400",
+    "cuisine": "Indian",
+    "dietTags": ["vegan", "vegetarian", "halal", "kosher"],
+    "allergens": [],
+    "ingredients": [
+      { "name": "chickpeas", "quantity": 800, "unit": "g", "category": "pantry" },
+      { "name": "yellow onion", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "tomatoes", "quantity": 400, "unit": "g", "category": "pantry" },
+      { "name": "ginger", "quantity": 1, "unit": "thumb", "category": "produce" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves", "category": "produce" },
+      { "name": "garam masala", "quantity": 2, "unit": "tsp", "category": "pantry" },
+      { "name": "cumin", "quantity": 1, "unit": "tsp", "category": "pantry" },
+      { "name": "coriander", "quantity": 1, "unit": "tsp", "category": "pantry" },
+      { "name": "turmeric", "quantity": 0.5, "unit": "tsp", "category": "pantry" },
+      { "name": "vegetable oil", "quantity": 2, "unit": "tbsp", "category": "pantry" },
+      { "name": "cilantro", "quantity": 0.5, "unit": "cup", "category": "produce" }
+    ],
+    "steps": [
+      "Sauté chopped onion in oil until golden.",
+      "Add minced ginger, garlic, and spices; bloom for 30 seconds.",
+      "Stir in tomatoes and simmer until broken down.",
+      "Add chickpeas and a splash of water; simmer 20 minutes.",
+      "Finish with cilantro."
+    ],
+    "prepMinutes": 10,
+    "cookMinutes": 30,
+    "servings": 4,
+    "createdAt": "2025-01-03T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_004",
+    "title": "Salmon Teriyaki Bowl",
+    "image": "https://picsum.photos/seed/salmon/600/400",
+    "cuisine": "Japanese",
+    "dietTags": ["pescatarian"],
+    "allergens": ["soy", "sesame"],
+    "ingredients": [
+      { "name": "salmon fillet", "quantity": 400, "unit": "g", "category": "seafood" },
+      { "name": "soy sauce", "quantity": 3, "unit": "tbsp", "category": "pantry" },
+      { "name": "mirin", "quantity": 2, "unit": "tbsp", "category": "pantry" },
+      { "name": "sugar", "quantity": 1, "unit": "tbsp", "category": "pantry" },
+      { "name": "sesame seeds", "quantity": 1, "unit": "tbsp", "category": "pantry" },
+      { "name": "jasmine rice", "quantity": 1, "unit": "cup", "category": "pantry" },
+      { "name": "broccoli", "quantity": 1, "unit": "head", "category": "produce" },
+      { "name": "green onions", "quantity": 2, "unit": "stalks", "category": "produce" }
+    ],
+    "steps": [
+      "Cook rice per package.",
+      "Simmer soy, mirin, and sugar until syrupy.",
+      "Sear salmon skin-side down, then glaze with sauce.",
+      "Steam broccoli until crisp-tender.",
+      "Serve over rice, top with sesame and green onions."
+    ],
+    "prepMinutes": 10,
+    "cookMinutes": 20,
+    "servings": 2,
+    "createdAt": "2025-01-04T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_005",
+    "title": "Beef Tacos Al Pastor",
+    "image": "https://picsum.photos/seed/tacos/600/400",
+    "cuisine": "Mexican",
+    "dietTags": [],
+    "allergens": ["gluten"],
+    "ingredients": [
+      { "name": "pork shoulder", "quantity": 500, "unit": "g", "category": "meat" },
+      { "name": "pineapple", "quantity": 1, "unit": "cup", "category": "produce" },
+      { "name": "white onion", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "cilantro", "quantity": 0.5, "unit": "cup", "category": "produce" },
+      { "name": "corn tortillas", "quantity": 12, "unit": "whole", "category": "bakery" },
+      { "name": "achiote paste", "quantity": 2, "unit": "tbsp", "category": "pantry" },
+      { "name": "orange juice", "quantity": 0.5, "unit": "cup", "category": "pantry" },
+      { "name": "lime", "quantity": 2, "unit": "whole", "category": "produce" }
+    ],
+    "steps": [
+      "Marinate pork in achiote and orange juice for 2 hours.",
+      "Sear pork on high heat until caramelized, then slice.",
+      "Warm tortillas on a dry skillet.",
+      "Fill with pork, pineapple, onion, and cilantro.",
+      "Serve with lime wedges."
+    ],
+    "prepMinutes": 20,
+    "cookMinutes": 25,
+    "servings": 4,
+    "createdAt": "2025-01-05T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_006",
+    "title": "Mediterranean Chickpea Salad",
+    "image": "https://picsum.photos/seed/chickpea/600/400",
+    "cuisine": "Mediterranean",
+    "dietTags": ["vegetarian", "halal", "kosher"],
+    "allergens": ["dairy"],
+    "ingredients": [
+      { "name": "chickpeas", "quantity": 400, "unit": "g", "category": "pantry" },
+      { "name": "cucumber", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "cherry tomatoes", "quantity": 200, "unit": "g", "category": "produce" },
+      { "name": "red onion", "quantity": 0.5, "unit": "whole", "category": "produce" },
+      { "name": "feta cheese", "quantity": 100, "unit": "g", "category": "dairy" },
+      { "name": "kalamata olives", "quantity": 0.5, "unit": "cup", "category": "pantry" },
+      { "name": "olive oil", "quantity": 3, "unit": "tbsp", "category": "pantry" },
+      { "name": "lemon", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "oregano", "quantity": 1, "unit": "tsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Combine chickpeas, diced cucumber, halved tomatoes, onion, olives.",
+      "Whisk olive oil, lemon juice, and oregano.",
+      "Toss salad with dressing and crumble feta on top."
+    ],
+    "prepMinutes": 15,
+    "cookMinutes": 0,
+    "servings": 4,
+    "createdAt": "2025-01-06T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_007",
+    "title": "Korean Bulgogi",
+    "image": "https://picsum.photos/seed/bulgogi/600/400",
+    "cuisine": "Korean",
+    "dietTags": [],
+    "allergens": ["soy", "sesame"],
+    "ingredients": [
+      { "name": "ribeye steak", "quantity": 500, "unit": "g", "category": "meat" },
+      { "name": "soy sauce", "quantity": 0.25, "unit": "cup", "category": "pantry" },
+      { "name": "asian pear", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves", "category": "produce" },
+      { "name": "brown sugar", "quantity": 2, "unit": "tbsp", "category": "pantry" },
+      { "name": "sesame oil", "quantity": 1, "unit": "tbsp", "category": "pantry" },
+      { "name": "sesame seeds", "quantity": 1, "unit": "tbsp", "category": "pantry" },
+      { "name": "green onions", "quantity": 3, "unit": "stalks", "category": "produce" }
+    ],
+    "steps": [
+      "Thinly slice ribeye against the grain.",
+      "Blend soy sauce, grated pear, garlic, sugar, sesame oil.",
+      "Marinate beef 30 minutes.",
+      "Sear on high heat in a cast-iron pan until caramelized.",
+      "Top with green onions and sesame seeds."
+    ],
+    "prepMinutes": 35,
+    "cookMinutes": 8,
+    "servings": 3,
+    "createdAt": "2025-01-07T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_008",
+    "title": "Vegan Buddha Bowl",
+    "image": "https://picsum.photos/seed/buddha/600/400",
+    "cuisine": "American",
+    "dietTags": ["vegan", "vegetarian", "halal", "kosher"],
+    "allergens": ["sesame"],
+    "ingredients": [
+      { "name": "quinoa", "quantity": 1, "unit": "cup", "category": "pantry" },
+      { "name": "sweet potato", "quantity": 1, "unit": "large", "category": "produce" },
+      { "name": "kale", "quantity": 2, "unit": "cups", "category": "produce" },
+      { "name": "chickpeas", "quantity": 400, "unit": "g", "category": "pantry" },
+      { "name": "avocado", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "tahini", "quantity": 3, "unit": "tbsp", "category": "pantry" },
+      { "name": "lemon", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "olive oil", "quantity": 2, "unit": "tbsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Roast cubed sweet potato and chickpeas at 425F for 25 minutes.",
+      "Cook quinoa per package directions.",
+      "Massage kale with olive oil and lemon juice.",
+      "Whisk tahini with lemon juice and water to a pourable consistency.",
+      "Assemble bowls and drizzle with tahini sauce."
+    ],
+    "prepMinutes": 10,
+    "cookMinutes": 25,
+    "servings": 2,
+    "createdAt": "2025-01-08T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_009",
+    "title": "Keto Cauliflower Mac and Cheese",
+    "image": "https://picsum.photos/seed/cauli/600/400",
+    "cuisine": "American",
+    "dietTags": ["keto", "vegetarian"],
+    "allergens": ["dairy"],
+    "ingredients": [
+      { "name": "cauliflower", "quantity": 1, "unit": "head", "category": "produce" },
+      { "name": "heavy cream", "quantity": 1, "unit": "cup", "category": "dairy" },
+      { "name": "cream cheese", "quantity": 100, "unit": "g", "category": "dairy" },
+      { "name": "cheddar cheese", "quantity": 200, "unit": "g", "category": "dairy" },
+      { "name": "parmesan", "quantity": 50, "unit": "g", "category": "dairy" },
+      { "name": "butter", "quantity": 2, "unit": "tbsp", "category": "dairy" },
+      { "name": "garlic powder", "quantity": 1, "unit": "tsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Steam cauliflower florets until tender.",
+      "Warm cream, cream cheese, butter until smooth.",
+      "Stir in shredded cheddar and parmesan; season.",
+      "Toss cauliflower in sauce and broil 3 minutes."
+    ],
+    "prepMinutes": 10,
+    "cookMinutes": 20,
+    "servings": 4,
+    "createdAt": "2025-01-09T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_010",
+    "title": "Shrimp Scampi Linguine",
+    "image": "https://picsum.photos/seed/scampi/600/400",
+    "cuisine": "Italian",
+    "dietTags": ["pescatarian"],
+    "allergens": ["shellfish", "gluten", "dairy"],
+    "ingredients": [
+      { "name": "linguine", "quantity": 400, "unit": "g", "category": "pantry" },
+      { "name": "shrimp, peeled", "quantity": 500, "unit": "g", "category": "seafood" },
+      { "name": "butter", "quantity": 4, "unit": "tbsp", "category": "dairy" },
+      { "name": "garlic", "quantity": 6, "unit": "cloves", "category": "produce" },
+      { "name": "white wine", "quantity": 0.5, "unit": "cup", "category": "pantry" },
+      { "name": "lemon", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "parsley", "quantity": 0.25, "unit": "cup", "category": "produce" },
+      { "name": "red pepper flakes", "quantity": 0.25, "unit": "tsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Cook linguine al dente; reserve 1/2 cup pasta water.",
+      "Sauté garlic in butter until fragrant.",
+      "Add shrimp, cook 2 minutes per side.",
+      "Deglaze with wine and lemon juice.",
+      "Toss pasta with sauce; add water as needed."
+    ],
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "servings": 4,
+    "createdAt": "2025-01-10T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_011",
+    "title": "Vietnamese Pho Bo",
+    "image": "https://picsum.photos/seed/pho/600/400",
+    "cuisine": "Vietnamese",
+    "dietTags": [],
+    "allergens": ["soy"],
+    "ingredients": [
+      { "name": "beef bones", "quantity": 1, "unit": "kg", "category": "meat" },
+      { "name": "beef sirloin", "quantity": 300, "unit": "g", "category": "meat" },
+      { "name": "rice noodles", "quantity": 300, "unit": "g", "category": "pantry" },
+      { "name": "yellow onion", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "ginger", "quantity": 1, "unit": "thumb", "category": "produce" },
+      { "name": "star anise", "quantity": 3, "unit": "whole", "category": "pantry" },
+      { "name": "cinnamon stick", "quantity": 1, "unit": "whole", "category": "pantry" },
+      { "name": "fish sauce", "quantity": 3, "unit": "tbsp", "category": "pantry" },
+      { "name": "thai basil", "quantity": 1, "unit": "bunch", "category": "produce" },
+      { "name": "bean sprouts", "quantity": 1, "unit": "cup", "category": "produce" }
+    ],
+    "steps": [
+      "Char onion and ginger over open flame.",
+      "Simmer bones with aromatics for 3 hours, skim.",
+      "Season broth with fish sauce.",
+      "Cook noodles; place raw sliced sirloin in bowl.",
+      "Ladle boiling broth over beef to cook.",
+      "Serve with basil and sprouts."
+    ],
+    "prepMinutes": 20,
+    "cookMinutes": 180,
+    "servings": 4,
+    "createdAt": "2025-01-11T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_012",
+    "title": "Thai Green Curry with Vegetables",
+    "image": "https://picsum.photos/seed/greencurry/600/400",
+    "cuisine": "Thai",
+    "dietTags": ["vegan", "vegetarian"],
+    "allergens": [],
+    "ingredients": [
+      { "name": "green curry paste", "quantity": 3, "unit": "tbsp", "category": "pantry" },
+      { "name": "coconut milk", "quantity": 400, "unit": "ml", "category": "pantry" },
+      { "name": "eggplant", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "bell pepper", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "bamboo shoots", "quantity": 1, "unit": "cup", "category": "pantry" },
+      { "name": "thai basil", "quantity": 0.5, "unit": "cup", "category": "produce" },
+      { "name": "lime", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "brown sugar", "quantity": 1, "unit": "tbsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Fry curry paste in a little coconut cream until fragrant.",
+      "Add remaining coconut milk and bring to a simmer.",
+      "Add eggplant and bell pepper; cook 10 minutes.",
+      "Stir in bamboo shoots and sugar.",
+      "Finish with lime and basil."
+    ],
+    "prepMinutes": 10,
+    "cookMinutes": 20,
+    "servings": 3,
+    "createdAt": "2025-01-12T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_013",
+    "title": "French Quiche Lorraine",
+    "image": "https://picsum.photos/seed/quiche/600/400",
+    "cuisine": "French",
+    "dietTags": [],
+    "allergens": ["gluten", "dairy", "eggs"],
+    "ingredients": [
+      { "name": "pie crust", "quantity": 1, "unit": "whole", "category": "bakery" },
+      { "name": "bacon", "quantity": 200, "unit": "g", "category": "meat" },
+      { "name": "gruyere cheese", "quantity": 150, "unit": "g", "category": "dairy" },
+      { "name": "eggs", "quantity": 4, "unit": "whole", "category": "dairy" },
+      { "name": "heavy cream", "quantity": 1, "unit": "cup", "category": "dairy" },
+      { "name": "nutmeg", "quantity": 0.25, "unit": "tsp", "category": "pantry" },
+      { "name": "salt", "quantity": 0.5, "unit": "tsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Blind-bake crust at 375F for 10 minutes.",
+      "Cook bacon until crisp; drain and chop.",
+      "Whisk eggs, cream, nutmeg, salt.",
+      "Layer bacon and cheese in crust; pour custard.",
+      "Bake 35 minutes until set."
+    ],
+    "prepMinutes": 15,
+    "cookMinutes": 45,
+    "servings": 6,
+    "createdAt": "2025-01-13T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_014",
+    "title": "Middle Eastern Hummus Plate",
+    "image": "https://picsum.photos/seed/hummus/600/400",
+    "cuisine": "Middle Eastern",
+    "dietTags": ["vegan", "vegetarian", "halal", "kosher"],
+    "allergens": ["sesame", "gluten"],
+    "ingredients": [
+      { "name": "chickpeas", "quantity": 400, "unit": "g", "category": "pantry" },
+      { "name": "tahini", "quantity": 0.25, "unit": "cup", "category": "pantry" },
+      { "name": "lemon", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "garlic", "quantity": 2, "unit": "cloves", "category": "produce" },
+      { "name": "cumin", "quantity": 1, "unit": "tsp", "category": "pantry" },
+      { "name": "olive oil", "quantity": 3, "unit": "tbsp", "category": "pantry" },
+      { "name": "pita bread", "quantity": 4, "unit": "whole", "category": "bakery" },
+      { "name": "paprika", "quantity": 0.25, "unit": "tsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Blend chickpeas with tahini, lemon juice, garlic, cumin, ice water.",
+      "Stream in olive oil while blending for silkiness.",
+      "Spread on plate, dust paprika, drizzle more oil.",
+      "Serve with warm pita."
+    ],
+    "prepMinutes": 10,
+    "cookMinutes": 0,
+    "servings": 4,
+    "createdAt": "2025-01-14T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_015",
+    "title": "Chinese Mapo Tofu",
+    "image": "https://picsum.photos/seed/mapo/600/400",
+    "cuisine": "Chinese",
+    "dietTags": [],
+    "allergens": ["soy"],
+    "ingredients": [
+      { "name": "silken tofu", "quantity": 400, "unit": "g", "category": "pantry" },
+      { "name": "ground pork", "quantity": 150, "unit": "g", "category": "meat" },
+      { "name": "doubanjiang", "quantity": 2, "unit": "tbsp", "category": "pantry" },
+      { "name": "sichuan peppercorns", "quantity": 1, "unit": "tsp", "category": "pantry" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves", "category": "produce" },
+      { "name": "ginger", "quantity": 1, "unit": "thumb", "category": "produce" },
+      { "name": "green onions", "quantity": 3, "unit": "stalks", "category": "produce" },
+      { "name": "soy sauce", "quantity": 1, "unit": "tbsp", "category": "pantry" },
+      { "name": "cornstarch", "quantity": 1, "unit": "tsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Brown pork in hot oil.",
+      "Add doubanjiang, garlic, ginger; stir-fry until red.",
+      "Add broth and soy sauce; slip in cubed tofu.",
+      "Simmer 5 minutes, thicken with cornstarch slurry.",
+      "Top with peppercorns and green onions."
+    ],
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "servings": 3,
+    "createdAt": "2025-01-15T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_016",
+    "title": "Peanut Butter Cookies",
+    "image": "https://picsum.photos/seed/pbcookie/600/400",
+    "cuisine": "American",
+    "dietTags": ["vegetarian"],
+    "allergens": ["peanuts", "gluten", "dairy", "eggs"],
+    "ingredients": [
+      { "name": "peanut butter", "quantity": 1, "unit": "cup", "category": "pantry" },
+      { "name": "sugar", "quantity": 0.75, "unit": "cup", "category": "pantry" },
+      { "name": "egg", "quantity": 1, "unit": "whole", "category": "dairy" },
+      { "name": "butter", "quantity": 0.5, "unit": "cup", "category": "dairy" },
+      { "name": "flour", "quantity": 1, "unit": "cup", "category": "pantry" },
+      { "name": "baking soda", "quantity": 0.5, "unit": "tsp", "category": "pantry" },
+      { "name": "vanilla extract", "quantity": 1, "unit": "tsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Cream butter, sugar, peanut butter.",
+      "Beat in egg and vanilla.",
+      "Mix in flour and baking soda.",
+      "Scoop onto sheet, press fork crosshatch.",
+      "Bake 350F for 10-12 minutes."
+    ],
+    "prepMinutes": 10,
+    "cookMinutes": 12,
+    "servings": 12,
+    "createdAt": "2025-01-16T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_017",
+    "title": "Japanese Miso Soup",
+    "image": "https://picsum.photos/seed/miso/600/400",
+    "cuisine": "Japanese",
+    "dietTags": ["vegan", "vegetarian", "pescatarian"],
+    "allergens": ["soy"],
+    "ingredients": [
+      { "name": "dashi stock", "quantity": 4, "unit": "cups", "category": "pantry" },
+      { "name": "miso paste", "quantity": 3, "unit": "tbsp", "category": "pantry" },
+      { "name": "silken tofu", "quantity": 200, "unit": "g", "category": "pantry" },
+      { "name": "wakame", "quantity": 1, "unit": "tbsp", "category": "pantry" },
+      { "name": "green onions", "quantity": 2, "unit": "stalks", "category": "produce" }
+    ],
+    "steps": [
+      "Warm dashi to just under a boil.",
+      "Whisk miso into a ladle of warm dashi until smooth, stir into pot.",
+      "Add rehydrated wakame and cubed tofu.",
+      "Serve topped with sliced green onions."
+    ],
+    "prepMinutes": 5,
+    "cookMinutes": 10,
+    "servings": 4,
+    "createdAt": "2025-01-17T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_018",
+    "title": "Grilled Lemon Herb Chicken",
+    "image": "https://picsum.photos/seed/chickengrill/600/400",
+    "cuisine": "Mediterranean",
+    "dietTags": ["keto", "halal"],
+    "allergens": [],
+    "ingredients": [
+      { "name": "chicken thighs", "quantity": 800, "unit": "g", "category": "meat" },
+      { "name": "lemon", "quantity": 2, "unit": "whole", "category": "produce" },
+      { "name": "olive oil", "quantity": 3, "unit": "tbsp", "category": "pantry" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves", "category": "produce" },
+      { "name": "rosemary", "quantity": 2, "unit": "sprigs", "category": "produce" },
+      { "name": "oregano", "quantity": 1, "unit": "tsp", "category": "pantry" },
+      { "name": "salt", "quantity": 1, "unit": "tsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Whisk lemon juice, zest, olive oil, garlic, herbs, salt.",
+      "Marinate chicken 30 minutes.",
+      "Grill over medium-high 6 minutes per side.",
+      "Rest 5 minutes before serving."
+    ],
+    "prepMinutes": 35,
+    "cookMinutes": 15,
+    "servings": 4,
+    "createdAt": "2025-01-18T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_019",
+    "title": "Vegan Sushi Rolls",
+    "image": "https://picsum.photos/seed/sushi/600/400",
+    "cuisine": "Japanese",
+    "dietTags": ["vegan", "vegetarian"],
+    "allergens": ["soy", "sesame"],
+    "ingredients": [
+      { "name": "sushi rice", "quantity": 2, "unit": "cups", "category": "pantry" },
+      { "name": "nori sheets", "quantity": 4, "unit": "whole", "category": "pantry" },
+      { "name": "avocado", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "cucumber", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "carrot", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "rice vinegar", "quantity": 3, "unit": "tbsp", "category": "pantry" },
+      { "name": "sugar", "quantity": 1, "unit": "tbsp", "category": "pantry" },
+      { "name": "soy sauce", "quantity": 4, "unit": "tbsp", "category": "pantry" },
+      { "name": "sesame seeds", "quantity": 1, "unit": "tbsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Cook sushi rice; season with vinegar, sugar, salt.",
+      "Lay nori on bamboo mat, spread rice.",
+      "Layer julienned veggies and avocado.",
+      "Roll tightly, slice into 8 pieces.",
+      "Serve with soy sauce and sesame garnish."
+    ],
+    "prepMinutes": 30,
+    "cookMinutes": 20,
+    "servings": 2,
+    "createdAt": "2025-01-19T10:00:00.000Z",
+    "source": "seed"
+  },
+  {
+    "id": "r_020",
+    "title": "Classic BLT Sandwich",
+    "image": "https://picsum.photos/seed/blt/600/400",
+    "cuisine": "American",
+    "dietTags": [],
+    "allergens": ["gluten", "eggs"],
+    "ingredients": [
+      { "name": "sourdough bread", "quantity": 4, "unit": "slices", "category": "bakery" },
+      { "name": "bacon", "quantity": 8, "unit": "slices", "category": "meat" },
+      { "name": "tomato", "quantity": 1, "unit": "whole", "category": "produce" },
+      { "name": "lettuce", "quantity": 4, "unit": "leaves", "category": "produce" },
+      { "name": "mayonnaise", "quantity": 2, "unit": "tbsp", "category": "pantry" }
+    ],
+    "steps": [
+      "Cook bacon until crispy.",
+      "Toast bread slices.",
+      "Spread mayo on bread.",
+      "Layer lettuce, tomato, bacon.",
+      "Top with bread and slice diagonally."
+    ],
+    "prepMinutes": 5,
+    "cookMinutes": 10,
+    "servings": 2,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "source": "seed"
+  }
+]
